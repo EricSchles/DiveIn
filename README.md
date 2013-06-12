@@ -1,0 +1,3 @@
+Code from www.diveintopython.net
+
+This also has my own experiments from the ebook...
